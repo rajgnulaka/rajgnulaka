@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/gopal-r-a67829190">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://raj10538.github.io/portfolio/">
+  <a href="https://rajgnulaka.github.io/portfolio/">
     <img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:rajgopalreddynulaka@gmail.com">
