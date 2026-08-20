@@ -18,15 +18,38 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Rajgopal Reddy
 
-<h3 align="center">AI Software Engineer • Agentic AI • LLMs • RAG • Production AI Systems</h3>
+<h1 align="center">
+  AI Software Engineer
+</h1>
 
 <p align="center">
-  <img src="./ghibli_style_under_1mb.jpg" width="100%" alt="AI Software Engineer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Raj+%F0%9F%91%8B;I+Build+Production+AI+Systems+%F0%9F%A4%96;Agentic+AI+%7C+LLMs+%7C+RAG;Building+AI+That+Solves+Real+Problems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Building intelligent, production-ready AI systems that solve real-world problems.</b>
+  <img src="./ghibli_style_under_1mb.jpg" width="100%" alt="Raj - AI Software Engineer">
 </p>
+
+<p align="center">
+  <a href="www.linkedin.com/in/gopal-r-a67829190">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://raj10538.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:rajgopalreddynulaka@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajgnulaka&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <b>Agentic AI • LLMs • RAG • AI Agents • Production AI • Cloud</b>
+</p>
+
 
 ---
 
