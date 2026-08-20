@@ -171,9 +171,9 @@ An AI-powered assistant for analyzing application logs, incidents and operationa
 
 ### 🔍 Intelligent Knowledge Assistant
 
-A contextual AI system that combines semantic retrieval and LLM reasoning to provide accurate, knowledge-grounded responses.-->
+A contextual AI system that combines semantic retrieval and LLM reasoning to provide accurate, knowledge-grounded responses.
 
----
+--- -->
 
 ## 📈 GitHub
 
