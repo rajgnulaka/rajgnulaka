@@ -155,7 +155,7 @@ AI-driven systems that analyze logs, incidents, alerts and operational data to a
 
 ---
 
-## 📌 Featured AI Projects
+<!--## 📌 Featured AI Projects
 
 ### 🤖 Production AI Agents
 
@@ -171,7 +171,7 @@ An AI-powered assistant for analyzing application logs, incidents and operationa
 
 ### 🔍 Intelligent Knowledge Assistant
 
-A contextual AI system that combines semantic retrieval and LLM reasoning to provide accurate, knowledge-grounded responses.
+A contextual AI system that combines semantic retrieval and LLM reasoning to provide accurate, knowledge-grounded responses.-->
 
 ---
 
