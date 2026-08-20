@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="./ghibli_style_under_1mb.jpg" width="100%" alt="Raj - AI Software Engineer">
+  <img src="./updated_banner.jpg" width="100%" alt="Raj - AI Software Engineer">
 </p>
 
 <p align="center">
