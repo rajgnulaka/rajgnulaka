@@ -184,9 +184,9 @@ A contextual AI system that combines semantic retrieval and LLM reasoning to pro
 
 ---
 
-## 🌐 Connect With Me
+//## 🌐 Connect With Me
 
-<p align="center">
+<!-- <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -200,7 +200,7 @@ A contextual AI system that combines semantic retrieval and LLM reasoning to pro
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-</p>
+</p> -->
 
 ---
 
