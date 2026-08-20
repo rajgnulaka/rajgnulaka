@@ -16,14 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm Rajgopal Reddy
-
-<h1 align="center">
-  AI Software Engineer
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Raj+%F0%9F%91%8B;I+Build+Production+AI+Systems+%F0%9F%A4%96;Agentic+AI+%7C+LLMs+%7C+RAG;Building+AI+That+Solves+Real+Problems+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi 👋%2C+I'm+Raj+%F0%9F%91%8B;I+Build+Production+AI+Systems+%F0%9F%A4%96;Agentic+AI+%7C+LLMs+%7C+RAG;Building+AI+That+Solves+Real+Problems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
