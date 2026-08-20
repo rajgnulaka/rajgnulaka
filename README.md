@@ -178,11 +178,15 @@ A contextual AI system that combines semantic retrieval and LLM reasoning to pro
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajgnulaka&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajgnulaka&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <a href="https://github.com/rajgnulaka">
+    <img src="https://img.shields.io/github/followers/rajgnulaka?style=for-the-badge&label=Followers" />
+  </a>
+  <a href="https://github.com/rajgnulaka?tab=repositories">
+    <img src="https://img.shields.io/github/stars/rajgnulaka?style=for-the-badge&label=Total%20Stars" />
+  </a>
+  <a href="https://github.com/rajgnulaka">
+    <img src="https://img.shields.io/github/repos/rajgnulaka?style=for-the-badge&label=Repositories" />
+  </a>
 </p>
 
 ---
