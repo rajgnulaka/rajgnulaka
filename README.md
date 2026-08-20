@@ -184,8 +184,18 @@ A contextual AI system that combines semantic retrieval and LLM reasoning to pro
 
 ---
 
-//## 🌐 Connect With Me
-
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/gopal-r-a67829190">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://rajgnulaka.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:rajgopalreddynulaka@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 <!-- <p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
