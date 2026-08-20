@@ -72,27 +72,6 @@ I build AI systems capable of:
 * ⚡ Automating repetitive engineering and operational workflows
 
 ---
-
-## 🚀 What I'm Building
-
-### 🤖 Production AI Agents
-
-AI agents that can reason, use tools, retrieve information and execute multi-step workflows.
-
-### 🧠 RAG Systems
-
-Enterprise RAG applications combining LLMs with organizational knowledge, documentation, operational data and technical information.
-
-### 🔧 AI-Powered Engineering Assistants
-
-Intelligent assistants designed to help developers and production teams with troubleshooting, analysis, documentation and incident resolution.
-
-### 🔎 AI Operations & Observability
-
-AI-driven systems that analyze logs, incidents, alerts and operational data to accelerate root-cause analysis and resolution.
-
----
-
 ## 🛠️ AI Tech Stack
 
 <p align="center">
@@ -122,6 +101,27 @@ AI-driven systems that analyze logs, incidents, alerts and operational data to a
 </p>
 
 ---
+
+## 🚀 What I'm Building
+
+### 🤖 Production AI Agents
+
+AI agents that can reason, use tools, retrieve information and execute multi-step workflows.
+
+### 🧠 RAG Systems
+
+Enterprise RAG applications combining LLMs with organizational knowledge, documentation, operational data and technical information.
+
+### 🔧 AI-Powered Engineering Assistants
+
+Intelligent assistants designed to help developers and production teams with troubleshooting, analysis, documentation and incident resolution.
+
+### 🔎 AI Operations & Observability
+
+AI-driven systems that analyze logs, incidents, alerts and operational data to accelerate root-cause analysis and resolution.
+
+---
+
 
 ## 🧩 Areas of Expertise
 
